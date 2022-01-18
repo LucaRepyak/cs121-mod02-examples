@@ -15,6 +15,9 @@ public class Lincoln
    {
       System.out.println("A quote by Abraham Lincoln:");
 
-      System.out.println("Whatever you are, be a good one.");
+      String quote;
+      quote = "Whatever you are, be a good one.";
+
+      System.out.println(quote);
    }
 }
